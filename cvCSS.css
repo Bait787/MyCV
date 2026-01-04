@@ -1,0 +1,31 @@
+body {
+    margin-left: 1vw;
+    margin-right: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    
+}
+
+.titles {
+    text-decoration: underline;
+    text-align: center;
+    margin: auto;
+
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.edu {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.contact {
+    font-style: italic;
+}
